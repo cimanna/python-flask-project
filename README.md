@@ -1,6 +1,6 @@
-  <h3 align="center">Pet Python Flask Database</h3>
+  <h1 align="center">Pet Python Flask Database</h1>
 
-  <h5 align="right">Built With:</h5>
+  <h3 align="left">Built With:</h3>
 <ul>
   <li>SQL database</li>
   <li>PeeWee models</li>
